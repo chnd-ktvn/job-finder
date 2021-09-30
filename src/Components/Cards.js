@@ -15,7 +15,7 @@ const Cards = (props) => {
 
   return (
     <Styles>
-    <Row xs={2} md={3} className="g-4">{
+    <Row xs={1} md={3} className="g-4">{
       props.dataCard.map((data, idx) => {
         return <Col>
         <Card>

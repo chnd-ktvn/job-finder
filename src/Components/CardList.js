@@ -4,7 +4,8 @@ import styled from "styled-components";
 
 const Styles = styled.div`
   .container {
-    padding: 25px;
+    padding-top: 25px;
+    padding-bottom: 35px;
   }
 `;
 

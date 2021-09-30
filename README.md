@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Job Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Job Finder was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Technology that was used: React, React-Bootstrap, and Styled-Components.
 
 ## Available Scripts
 
